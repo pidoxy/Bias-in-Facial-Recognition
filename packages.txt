@@ -1,0 +1,7 @@
+cmake
+build-essential
+libboost-python-dev
+libopenblas-dev
+liblapack-dev
+libjpeg-dev
+libpng-dev
